@@ -1,6 +1,6 @@
-- 👋 Hi, I’m GAO Jiwen
+- 👋 Hi, I’m Jiwen Gao
 - 👀 I’m interested in image recongnition
-- 🌱 I’m currently learning AI(based on Tensorflow)/C++/python
+- 🌱 I’m currently learning CG
 - 💞️ I’m looking to collaborate on ...
 - 📫 My e-mail address is 1052026878@qq.com
 
